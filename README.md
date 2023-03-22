@@ -1,6 +1,6 @@
 # componentes
 
-A new Flutter project.
+A new Flutter project by Luis Ernesto Martin Bacallao.
 
 ## Getting Started
 
